@@ -1,19 +1,31 @@
 p{
     color:hsl(332, 51%, 32%) ;
     font-size: 16px;
+    font-family: Young Serif;
+    font-weight: 400PX;
 }
 
 .classname{
     color: hsl(14, 45%, 36%);
     font-size: 16px;
-    
-}
+    font-size: 16px;
+    font-family: Young Serif;
+    font-weight: 400PX;  
+} 
+
 .nutrition{
     color: hsl(332, 51%, 32%);
     font-size: 16px;
-}
+    font-size: 16px;
+    font-family: Young Serif;
+    font-weight: 400PX;
+    } 
+
 img{
     width:1440px ;
+}
+ol{
+    font-family: Outfit;
 }
 
 
